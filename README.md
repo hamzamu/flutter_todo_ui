@@ -6,5 +6,3 @@ A new Flutter project.
 2. function through widgets
 3. callback functions var
 4. hive
-
-## Getting Started
